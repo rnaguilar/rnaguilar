@@ -52,7 +52,10 @@ Conhecimentos para atuação nas cloud's da Amazon (AWS) e Google (GPC).
 
 <h3>Projetos</h3>
 <div >
-  <img align="left" height="150" src="project/apple_project.png"  style="margin-left: 10px;" />
+   
+   <a href="https://github.com/rnaguilar/apple_store_project" target="_blank">
+    <img align="left" height="150" src="project/apple_project.png"  style="margin-left: 10px;" alt ="PowerBI - Dashboard Apple" />
+  </a>
 </div>
 
 
