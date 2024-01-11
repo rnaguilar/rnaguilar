@@ -1,15 +1,14 @@
+<img align="left" height="150" src="https://avatars.githubusercontent.com/u/36868958?s=400&u=e9eee92b01e2a0b9265b06c682f825f23a69c0ce&v=4"  />
+
+###
 <h2 align="left">Olá, sou Rodrigo. <br>Engenheiro e arquiteto de dados.</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rnaguilar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rnaguilar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/36868958?s=400&u=e9eee92b01e2a0b9265b06c682f825f23a69c0ce&v=4"  />
+<p style="text-align: justify;">Profissional com 8 anos de experiência de mercado na área de dados, com forte atuação em Integração, Processamento e Modelagem de dados. 
+Expertise em base de dados estruturadas e não estruturadas. Com amplos conhecimentos em databases como Oracle, Postgresql, MySQL e MongoDB.
+Ampla experiência com Integração de Dados com Airflow, Python e Talend Open Studio. Utilizando PL/SQL e Arquitetura SOAP e REST.
+Implementação de escalabilidade em Power BI, com o pipeline de dados em (fluxo de dados) , fazendo tratativas e melhorias de performance com DAX Studio.
+Atuação em projetos de visualização de dados em Quicksight, Power BI e Qlik Sense. 
+Conhecimentos para atuação nas cloud's da Amazon (AWS) e Google (GPC). 
+</p>
 
 ###
 
@@ -25,6 +24,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rnaguilar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rnaguilar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+
+
+
+
 ###
 
 <div align="left">
@@ -36,62 +46,5 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/rnaguilar/rnaguilar/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rnaguilar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rnaguilar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rnaguilar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rnaguilar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rnaguilar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rnaguilar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rnaguilar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rnaguilar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/rnaguilar/rnaguilar/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/rnaguilar/rnaguilar/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/rnaguilar/rnaguilar/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
