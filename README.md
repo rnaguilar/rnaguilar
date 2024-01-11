@@ -51,7 +51,9 @@ Conhecimentos para atuação nas cloud's da Amazon (AWS) e Google (GPC).
 <br>
 
 <h3>Projetos</h3>
-<img align="left" height="150" src="https://avatars.githubusercontent.com/u/36868958?s=400&u=e9eee92b01e2a0b9265b06c682f825f23a69c0ce&v=4"  />
+<div >
+  <img align="left" height="150" src="project/apple_project.png"  style="margin-left: 10px;" />
+</div>
 
 
 
