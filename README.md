@@ -13,11 +13,11 @@
   </a>
 </div>
 </h2>
-<p style="text-align: justify;text-justify: inter-word;">Profissional com 8 anos de experiência de mercado na área de dados, com forte atuação em Integração, Processamento e Modelagem de dados. 
-Expertise em base de dados estruturadas e não estruturadas. Com amplos conhecimentos em databases como Oracle, Postgresql, MySQL e MongoDB.
+<p style="text-align: justify;text-justify: inter-word;">
+  Profissional com 8 anos de experiência de mercado na área de dados, com forte atuação em Integração, Processamento e Modelagem de dados. Expertise em base de dados estruturadas e não estruturadas. Com amplos conhecimentos em databases como Oracle, Postgresql, MySQL e MongoDB.</p>
 Ampla experiência com Integração de Dados com Airflow, Python e Talend Open Studio. Utilizando PL/SQL e Arquitetura SOAP e REST.
-Implementação de escalabilidade em Power BI, com o pipeline de dados em (fluxo de dados) , fazendo tratativas e melhorias de performance com DAX Studio.
-Atuação em projetos de visualização de dados em Quicksight, Power BI e Qlik Sense. 
+<p>Implementação de escalabilidade em Power BI, com o pipeline de dados em (fluxo de dados) , fazendo tratativas e melhorias de performance com DAX Studio.
+Atuação em projetos de visualização de dados em Quicksight, Power BI e Qlik Sense. </p>
 Conhecimentos para atuação nas cloud's da Amazon (AWS) e Google (GPC). 
 </p>
 
